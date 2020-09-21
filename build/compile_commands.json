@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-kernel-if.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kernel-if.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kernel-if.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-md.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-md.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-md.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-kdf.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kdf.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kdf.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-utils.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-utils.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-utils.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-asym.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-asym.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-asym.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-aead.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-aead.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-aead.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-kpp.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kpp.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-kpp.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-sym.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-sym.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-sym.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/crypto_lib_src/Src/kcapi-rng.c.o   -c /home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-rng.c",
+  "file": "/home/asma/study/CMake/crypto/crypto_lib_src/Src/kcapi-rng.c"
+},
+{
+  "directory": "/home/asma/study/CMake/crypto/build",
+  "command": "/usr/bin/gcc-5   -I/home/asma/study/CMake/crypto/crypto_lib_src/Inc  -g   -o CMakeFiles/crpto_test.dir/project_src/main.c.o   -c /home/asma/study/CMake/crypto/project_src/main.c",
+  "file": "/home/asma/study/CMake/crypto/project_src/main.c"
+}
+]
