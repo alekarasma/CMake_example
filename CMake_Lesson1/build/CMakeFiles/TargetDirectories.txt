@@ -1,0 +1,3 @@
+/home/asma/study/CMake/crypto/CMake_Lesson1/build/CMakeFiles/edit_cache.dir
+/home/asma/study/CMake/crypto/CMake_Lesson1/build/CMakeFiles/crypto_test.dir
+/home/asma/study/CMake/crypto/CMake_Lesson1/build/CMakeFiles/rebuild_cache.dir
